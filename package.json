@@ -1,0 +1,22 @@
+{
+  "name": "blackjack",
+  "version": "1.0.0",
+  "description": "Card game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/graycadeau/blackjack.git"
+  },
+  "author": "3N61N33R",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/graycadeau/blackjack/issues"
+  },
+  "homepage": "https://github.com/graycadeau/blackjack#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
